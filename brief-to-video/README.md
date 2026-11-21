@@ -1,6 +1,6 @@
 # brief-to-video
 
-[![CI](../../actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
+[![CI](https://github.com/Pravalika2603/brief-to-video/actions/workflows/ci.yml/badge.svg)](https://github.com/Pravalika2603/brief-to-video/actions/workflows/ci.yml)
 
 A small, tested Python pipeline that turns a client brief into a scheduled short-form vertical video, with an automated quality gate and cost-per-approved-post tracking.
 
