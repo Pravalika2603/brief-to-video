@@ -1,0 +1,13 @@
+{
+  "brief_id": "lumen-subscription-01",
+  "brand": "Lumen Coffee",
+  "product": "Fresh-roasted coffee subscription",
+  "audience": "busy remote workers",
+  "tone": "warm, direct, no hype",
+  "facts": [
+    "Roasted within 48 hours of shipping",
+    "Free shipping over $40",
+    "Pause or cancel anytime"
+  ],
+  "cta": "Start your first bag today"
+}

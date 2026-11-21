@@ -1,0 +1,4 @@
+pillow>=10.1
+requests>=2.31
+imageio-ffmpeg>=0.4.9   # bundled ffmpeg fallback if ffmpeg isn't on PATH
+pytest>=8.0
